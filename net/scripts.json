@@ -1,0 +1,9 @@
+{
+  "$schema": "https://deno.land/x/denon@2.5.0/schema.json",
+  "scripts": {
+    "dev": {
+      "cmd": "deno run  --allow-net app.ts",
+      "desc": "run my app.ts file"
+    }
+  }
+}
